@@ -1,3 +1,3 @@
 # Projects.WeatherApp
 
-Wheater App in React
+Weather App in React
